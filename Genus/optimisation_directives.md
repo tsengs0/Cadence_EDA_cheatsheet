@@ -55,3 +55,8 @@
     ```Tcl
     set_db inst:dut_top/sram_apb_bridge_inst .dont_touch size_ok
     ```
+## Grouping and Ungrouping of the hierarchy
+T.B.D.
+
+## Reporting ungroup modules
+T.B.D.
